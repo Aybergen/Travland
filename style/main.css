@@ -35,7 +35,7 @@ html,body{
 
 /* header */
 .header{
-background-image: url("../image/intro-bg.jpg");
+background-image: url("../images/Bacground.jpg");
 background-repeat: no-repeat;
 background-size: cover;
 background-position: center;
@@ -94,4 +94,56 @@ opacity: 60%;
 }
 
 
+.main_start {
+    padding-top: 140px;
+    padding-bottom:20px;
+    text-align: center  ;
+    font-size: 43px;
+    font-weight: 500;
 
+}
+ 
+.main_org_text {
+    padding-bottom: 50px;
+    text-align: center;
+    color: #000;
+    opacity: 70%;
+    font-size: 18px;
+    font-weight: 400;
+    
+
+}
+
+.card_text_one {
+    padding-top: 35px;
+    color: #000;
+font-size: 24px;
+font-style: normal;
+font-weight: 500;
+line-height: 150%;
+text-align: center;
+}
+.card_text_two {
+    color: #000;
+font-size: 18px;
+font-style: normal;
+font-weight: 400;
+line-height: 160%; 
+text-align: center;
+}
+.card_org {
+    padding-bottom: 20px;
+    
+    
+}
+.card_one {
+    width: 361.9px;
+    height: 499px;
+    border: solid 1px rgb(90, 88, 88);
+    border-radius: 10px;
+    
+}
+.card_org{
+    display: flex;
+    justify-content: space-between;
+}

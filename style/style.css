@@ -12,7 +12,7 @@ a{
 }
 body{
     font-family: 'Roboto', serif;
-    /* font-family: 'Gelasio', serif; */
+    
 }
 .container{
     width: 90%;
@@ -37,10 +37,10 @@ body{
 
 .header{
     width: 100%;
-    background-image: url(images/intro-bg.png);
+    background-image: url(../images/Bacground.jpg);
     background-repeat: no-repeat;
     background-position: top;
-    background-size: cover;
+    background-size: auto;
     color: #fff;
 }
 .head{
